@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    padding-top: 100px;
+}
+
+.container {
+    width: 600px; /* Adjust width as needed */
+    margin: 0 auto; /* Centers the container */
+    text-align: center; /* Centers text inside the container */
+    color: black;
+    font-size: 2em;
+}
